@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: microservice-client
+custom:
+  message: "Halo dari Config Server!"
