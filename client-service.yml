@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+custom:
+  message: "Halo dari Config Server!!!!!!"
+
